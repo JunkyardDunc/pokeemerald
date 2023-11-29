@@ -1,6 +1,6 @@
 # Pokémon Emerald
 
-This is a decompilation of Pokémon Emerald. Sami
+This is a decompilation of Pokémon Emerald
 
 It builds the following ROM:
 
